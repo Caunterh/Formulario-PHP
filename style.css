@@ -1,0 +1,45 @@
+body{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, rgb(0, 0, 83), rgb(49, 0, 128));
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment:fixed;
+    background-position: center center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.quadro{
+    background-color: white;
+    color: black;
+    width: 25%;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 8%;
+}
+
+
+
+
+#botao{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    width: 50%;
+    cursor: pointer;
+    
+}
+
+#botao:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    transition: 0.5;
+
+}
+
